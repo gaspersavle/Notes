@@ -1,0 +1,65 @@
+{
+  "collapse-filter": false,
+  "search": "",
+  "showTags": true,
+  "showAttachments": true,
+  "hideUnresolved": false,
+  "showOrphans": true,
+  "collapse-color-groups": false,
+  "colorGroups": [
+    {
+      "query": "tag:#vhdl",
+      "color": {
+        "a": 1,
+        "rgb": 14701138
+      }
+    },
+    {
+      "query": "tag:#isva",
+      "color": {
+        "a": 1,
+        "rgb": 5111552
+      }
+    },
+    {
+      "query": "tag:#template",
+      "color": {
+        "a": 1,
+        "rgb": 14732626
+      }
+    },
+    {
+      "query": "tag:#ndes",
+      "color": {
+        "a": 1,
+        "rgb": 6582478
+      }
+    },
+    {
+      "query": "tag:#rvp",
+      "color": {
+        "a": 1,
+        "rgb": 5431473
+      }
+    },
+    {
+      "query": "tag:#kva",
+      "color": {
+        "a": 1,
+        "rgb": 5419488
+      }
+    }
+  ],
+  "collapse-display": false,
+  "showArrow": false,
+  "textFadeMultiplier": -0.2,
+  "nodeSizeMultiplier": 1.70192307692308,
+  "lineSizeMultiplier": 1.04230769230769,
+  "collapse-forces": false,
+  "centerStrength": 0.371794871794872,
+  "repelStrength": 20,
+  "linkStrength": 0.576923076923077,
+  "linkDistance": 307,
+  "scale": 0.046428961882687546,
+  "close": false
+}
